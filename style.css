@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0f0f0f;
+    font-family: Inter;
+    color:aliceblue;    
+    text-align: center;
+}
+img {
+    width: 165px;
+    margin-bottom: 15px;
+}
+header h5{
+    padding: 0px;
+    margin: 0px;
+    font-weight: 300;
+    font-size: 16px;
+}
+h5{
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 300;
+}
+form{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;    
+}
+label{
+    margin-bottom: 5px;
+    margin-left: 8px;
+    font-size: 18px;
+}
+input{
+    width: 320px;
+    margin-bottom: 10px;
+    border-radius: 25px;
+    height: 25px;
+    background-color: #7f7f7f;
+}
+input[type="submit"]{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 120px;
+    height: 30px;
+    align-self: center;
+    border-radius: 25px;
+    background-color: #8C77E0;
+    color: aliceblue;
+    font-family: Inter;
+    font-size: 18px;
+}
+button{
+    margin-top: 30px;
+    width: 225px;
+    height: 35px;
+    align-self: center;
+    border-radius: 25px;
+    background-color: #8C77E0;
+    color: aliceblue;
+    font-family: Inter;
+    font-size: 18px;
+
+}
